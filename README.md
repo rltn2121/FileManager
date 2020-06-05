@@ -15,12 +15,17 @@
 <img src="https://user-images.githubusercontent.com/54628612/83888144-69286c80-a784-11ea-9a0a-4aafa5324cf1.JPG" width="90%"></img>
 
 I added shortcuts at 'View - Detail(Alt + D)' and 'List(Alt + L)' and 'Help - Shortcuts(F1)'.
+
 I also added 'Clip Board' label under the panel which display detail information of last selected file.
+
 You can check which file(or directory) is in the clip board.
+
 I added 'Key Event' at table and list.
+
 You can go into lower directory by pressing 'Enter' key and go to upper directory by pressing 'Backspace' key.
+
 You can open file(or directory) not only double clicking the list, but also press 'Enter' key.
 
-
 JTree is imperfect(It doesn't updated).
+
 Refer to: https://stackoverflow.com/questions/6147965/change-icon-of-the-first-node-of-jtree/6153182#6153182
