@@ -9,6 +9,8 @@
  - jgoodies-forms-1.8.0.jar
  - tika-app-1.15.jar
 
+<img src="(https://user-images.githubusercontent.com/54628612/83888135-66c61280-a784-11ea-85b5-aa41272821cc.JPG" width="90%"></img>
+<img src="(https://user-images.githubusercontent.com/54628612/83888144-69286c80-a784-11ea-9a0a-4aafa5324cf1.JPG" width="90%"></img>
 
 I added shortcuts at 'View - Detail(Alt + D)' and 'List(Alt + L)' and 'Help - Shortcuts(F1)'.
 I also added 'Clip Board' label under the panel which display detail information of last selected file.
